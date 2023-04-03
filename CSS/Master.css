@@ -664,7 +664,7 @@ header .sign i::after {
 }
 @media (max-width: 768px) {
     .contact .contact-form form {
-        width: 100%;
+        width: 95%;
     }
 }
 .contact .contact-form input, 
@@ -700,7 +700,7 @@ header .sign i::after {
     transform: translateX(-50%);
     color: white;
     border: none;
-    padding: 25px 125px;
+    padding: 25px 100px;
     cursor: pointer;
 }
 .contact .contact-form input[type="submit"]:hover {
